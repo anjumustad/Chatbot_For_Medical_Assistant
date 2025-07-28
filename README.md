@@ -7,3 +7,8 @@ GenAi And RAG implemented for Medical assistant chatbot
 we used llama3.1:8b model for offline and for prod we used openAI gpt4o :- so i have now commented the code for prod(openai) and enabled for llama so for production i have to enabled the production code.
 
 ***************----------------IMP-------------------***************
+
+* Future Plans :- Implement memory buffer.
+
+
+Next step is CI/CD, Docker, Aws, Monitoring
